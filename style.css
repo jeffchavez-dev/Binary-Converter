@@ -8,12 +8,12 @@
 
 :root {
   --light-grey: #f5f6f7;
-  --dark-blue: #1b1b32;
+  --dark-green: #0a5c12;
   --orange: #f1be32;
 }
 
 body {
-  background-color: var(--dark-blue);
+  background-color: var(--dark-green);
   font-family: "Times New Roman", Times, serif;
   font-size: 18px;
   color: var(--light-grey);
